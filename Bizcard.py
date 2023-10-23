@@ -21,7 +21,7 @@ mycursor.execute('Use bizcard')
 # SETTING PAGE CONFIGURATIONS
 
 st.set_page_config(page_title="BizCardX: Extracting Business Card Data with OCR | By SRINIVASAN",
-                   page_icon=icon,
+                   page_icon=("C:\\Users\\ELCOT\\OneDrive\\bizcard.jpg"),
                    layout="wide",
                    initial_sidebar_state="expanded",
                    menu_items={'About': """# This OCR app is created by *SRINIVASAN*!"""})
