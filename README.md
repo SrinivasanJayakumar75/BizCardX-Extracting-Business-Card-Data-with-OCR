@@ -21,4 +21,5 @@ who need to manage business card information efficiently.
 
 NAME : J SRINIVASAN
 DOMAIN : DATA SCIENCE
-Demo video url: https://www.youtube.com/watch?v=inYX8SX4kMU
+Demo video url : https://www.youtube.com/watch?v=inYX8SX4kMU
+Linked in url : :https://www.linkedin.com/in/srinivasan-j-61961928b/
